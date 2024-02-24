@@ -14,7 +14,7 @@ export default function HelloReact() {
                     <tr>
                         <td>Alfreds Futterkiste</td>
                         <td>Maria Anders</td>
-                        <td>Germany</td>
+                        <td>Angola</td>
                     </tr>
                     <tr>
                         <td>Centro comercial Moctezuma</td>
